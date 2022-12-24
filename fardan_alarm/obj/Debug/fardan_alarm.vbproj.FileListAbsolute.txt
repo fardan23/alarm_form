@@ -1,0 +1,31 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\fardan_alarm\bin\Debug\fardan_alarm.exe.config
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\bin\Debug\fardan_alarm.exe.config
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.Form1.resources
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.Resources.resources
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\bin\Debug\fardan_alarm.exe
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\bin\Debug\fardan_alarm.pdb
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\bin\Debug\fardan_alarm.xml
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.exe
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.xml
+C:\Users\Administrator\Documents\TA_01\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.pdb
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\bin\Debug\fardan_alarm.exe.config
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\obj\Debug\Interop.WMPLib.dll
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.vbproj.ResolveComReference.cache
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.exe
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.xml
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.pdb
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\bin\Debug\fardan_alarm.exe
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\bin\Debug\fardan_alarm.pdb
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\bin\Debug\fardan_alarm.xml
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\bin\Debug\Interop.WMPLib.dll
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.Form1.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.Resources.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\fardan_alarm\fardan_alarm\obj\Debug\fardan_alarm.vbproj.GenerateResource.Cache
